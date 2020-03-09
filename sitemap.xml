@@ -3,11 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://stephenkirk.se/categories/</loc>
+    <loc>https://stephenkirk.se/posts/test/</loc>
+    <lastmod>2020-03-09T20:13:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stephenkirk.se/posts/</loc>
+    <lastmod>2020-03-09T20:13:54+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://stephenkirk.se/</loc>
+    <lastmod>2020-03-09T20:13:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stephenkirk.se/categories/</loc>
   </url>
   
   <url>
